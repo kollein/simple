@@ -1,4 +1,4 @@
-import { useReactive } from '../instance';
+import { useReactive } from '@/instance';
 
 export default {
   name: "App",

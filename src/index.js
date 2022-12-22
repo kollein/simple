@@ -1,5 +1,5 @@
-import { createApp } from './main';
-import App from './examples/App';
+import { createApp } from '@/main';
+import App from '@/examples/App';
 
 const options = {
   render: (h) => h(App),

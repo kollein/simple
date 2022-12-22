@@ -1,4 +1,4 @@
-import { createApp, useReactive } from './instance/index.js';
+import { createApp, useReactive } from '@/instance';
 
 export {
   createApp,

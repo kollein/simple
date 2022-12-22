@@ -1,7 +1,5 @@
-import { mergeOptions } from '../core/option';
-import {
-  cloneDeep, hasOwn, isObject
-} from '../utils';
+import { mergeOptions } from '@/core/option';
+import { cloneDeep } from '@/utils';
 
 const app = {
   // mount app
